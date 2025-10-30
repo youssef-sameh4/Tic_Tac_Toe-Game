@@ -19,6 +19,7 @@ with a clean console UI and colorful symbols for a better experience.
 - Enter a number **(1–9)** to place your move in the grid.  
 - Example layout:  
 1 | 2 | 3
+  
 4 | 5 | 6
 
 7 | 8 | 9
@@ -41,4 +42,18 @@ Tic_Tac_Toe-Game/
 ├── MainMenueGame.cs    # Main menu logic
 ├── CreatAGame.cs       # Game mechanics and logic
 └── README.md           # Project description
+
+🧑‍💻 Developer
+
+Youssef Sameh
+💼 GitHub: youssef-sameh4
+
+🏁 Future Improvements
+
+🧠 Smarter AI with Minimax Algorithm
+
+💻 GUI Version (WinForms / WPF)
+
+🌐 Online Multiplayer Mode
+⭐ If you like this project, don't forget to star it!
 

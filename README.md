@@ -16,15 +16,20 @@ with a clean console UI and colorful symbols for a better experience.
 ---
 
 ## 🕹️ Game Controls
-- Enter a number **(1–9)** to place your move in the grid.  
-- Example layout:  
-1 | 2 | 3
-  
- 4 | 5 | 6
 
+Enter a number **(1–9)** to place your move on the grid.
+
+Example layout:
+ 1 | 2 | 3
+---+---+---
+ 4 | 5 | 6
+---+---+---
  7 | 8 | 9
 
-- The game will automatically detect the winner or a draw.
+
+
+The game will automatically detect **the winner** 🏆 or **a draw** 🤝.
+
 ## 🧩 How to Run
 1. Clone the repository:
  ```bash

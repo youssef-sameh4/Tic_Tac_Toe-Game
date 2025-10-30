@@ -20,9 +20,9 @@ with a clean console UI and colorful symbols for a better experience.
 - Example layout:  
 1 | 2 | 3
   
-4 | 5 | 6
+ 4 | 5 | 6
 
-7 | 8 | 9
+ 7 | 8 | 9
 
 - The game will automatically detect the winner or a draw.
 ## 🧩 How to Run
